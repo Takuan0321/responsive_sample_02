@@ -3,13 +3,14 @@
 --------------------------------*/
 
 header{
-  height: 5rem;
+  height: 10rem;
 }
 header h1{
   position: absolute;
   top: 1.5rem;
   left: 2rem;
   font-size: 1.2rem;
+          
 }
 
 
